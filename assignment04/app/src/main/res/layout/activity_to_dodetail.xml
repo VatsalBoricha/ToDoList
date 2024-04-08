@@ -22,7 +22,7 @@
     <com.google.android.material.textfield.TextInputEditText
         android:id="@+id/editTextTodoName"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:layout_marginBottom="14dp"
         android:background="@color/textViewColor2"
         android:hint="Sample To do Name" />
@@ -40,7 +40,7 @@
     <com.google.android.material.textfield.TextInputEditText
         android:id="@+id/editTextNotes"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:layout_marginBottom="14dp"
         android:background="@color/textViewColor2"
         android:hint="Sample notes for the todo" />
@@ -114,8 +114,8 @@
 
         <Switch
             android:id="@+id/optionalDueDateSwitch"
-            android:layout_width="46dp"
-            android:layout_height="46dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
             android:layout_gravity="center_vertical"
             android:textSize="16sp" />
     </LinearLayout>
@@ -137,8 +137,8 @@
 
         <Switch
             android:id="@+id/completedSwitch"
-            android:layout_width="46dp"
-            android:layout_height="46dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
             android:layout_gravity="center_vertical" />
     </LinearLayout>
 
