@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ToDoBackgroundColor">#6688E0</color>
+    <color name="buttonBackgroundColor">#EBDF86</color>
+    <color name="textViewColor">#E9E7C8</color>
+    <color name="textViewColor2">#D0E9D9</color>
+    <color name="textViewColor3">#3E2A0F</color>
+</resources>
